@@ -1,5 +1,7 @@
 # MapComponent
 
+This project has the openstreetmap component (https://www.openstreetmap.org/#map=4/-15.13/-53.19) version 1.9.4.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
 
 ## Development server

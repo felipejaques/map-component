@@ -1,0 +1,7 @@
+<div>
+  <div leaflet
+      [ngStyle]="{ 'height': height +'px' }"
+      (leafletMapReady)="onMapReady($event)"
+      [leafletOptions]="mapOptions"
+  ></div>
+</div>
